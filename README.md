@@ -11,3 +11,24 @@ So We Can Classfied Data Structures based on their characteristics.
 
 <img width="1416" alt="Material App" src="https://github.com/Yasith8/My-DSA-Art-Gallery/assets/90121062/d457749a-dbc8-4cb7-8d9a-efdc7691a009">
 
+**1. Based on Arrangement**
+     - Linear
+        In linear data structures, the data items are arranged in a linear sequence.
+                eg:Array Linked List, Stack, Queue
+     - Non Linear
+        In non-linear data structure, data items are not in sequence.
+                eg: tree, graph
+
+**2. Based on Data Type**
+     - Homogeneous
+         The All elements are same type.
+     - Non-Homogeneous
+         The All elements are may or maynot same type.
+
+**3. Based on Location**
+     - Static
+         Size and structures assosiated memory locations are fixed.
+             eg: Array
+     - Dynamic
+        Memory location can be changed.
+           eg: linked List
