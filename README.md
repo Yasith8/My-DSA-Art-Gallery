@@ -12,7 +12,7 @@ So We Can Classfied Data Structures based on their characteristics.
 <img width="1416" alt="Material App" src="https://github.com/Yasith8/My-DSA-Art-Gallery/assets/90121062/d457749a-dbc8-4cb7-8d9a-efdc7691a009">
 
 **1. Based on Arrangement**
-     - Linear
+    - Item 1 - Linear
         In linear data structures, the data items are arranged in a linear sequence.
                 eg:Array Linked List, Stack, Queue
      - Non Linear
