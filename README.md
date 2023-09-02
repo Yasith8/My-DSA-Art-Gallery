@@ -45,7 +45,7 @@ So We Can Classfied Data Structures based on their characteristics.
 
 
 
-<h2>[Array](https://github.com/Yasith8/My-DSA-Art-Gallery/tree/main/Data%20Structures/Array)</h2>
+## [Array](https://github.com/Yasith8/My-DSA-Art-Gallery/tree/main/Data%20Structures/Array)
 
 - **Print Array**
   <br>
