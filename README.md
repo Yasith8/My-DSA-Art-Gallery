@@ -35,7 +35,7 @@ So We Can Classfied Data Structures based on their characteristics.
      
   <h2>**Data Structures that I have learned so far**</h2>
 
-  1. Array
+  1. [Array](#Array)
   2. LinkedList
   3. Stack
   4. Queue
