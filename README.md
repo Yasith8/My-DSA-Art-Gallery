@@ -50,7 +50,7 @@ So We Can Classfied Data Structures based on their characteristics.
 - **Print Array**
   <br>
 
-  ```Java
+  ```
   public class LinearSearch {
 
     static int search(int array[],int value){
@@ -82,5 +82,5 @@ So We Can Classfied Data Structures based on their characteristics.
 
        
     }
-}
+  }
 ```
