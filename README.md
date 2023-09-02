@@ -32,3 +32,13 @@ So We Can Classfied Data Structures based on their characteristics.
   - Dynamic
     - Memory location can be changed.
       - eg: linked List
+     
+  ##Data Structures that I have learned so far
+
+  1. Array
+  2. LinkedList
+  3. Stack
+  4. Queue
+  5. Tree
+  6. Heap
+  7. Graph
