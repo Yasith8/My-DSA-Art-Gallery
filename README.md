@@ -48,7 +48,9 @@ So We Can Classfied Data Structures based on their characteristics.
 ## [Array](https://github.com/Yasith8/My-DSA-Art-Gallery/tree/main/Data%20Structures/Array)
 
 - **Print Array**
-  <br>
+
+   ![Untitled](https://github.com/Yasith8/My-DSA-Art-Gallery/assets/90121062/1aeab74b-a371-4ab0-a4c2-5bc36a7fae0d)
+
   ```java
   public class PrintArray {
      public static void main(String args[]){
