@@ -33,7 +33,7 @@ So We Can Classfied Data Structures based on their characteristics.
     - Memory location can be changed.
       - eg: linked List
      
-  ##Data Structures that I have learned so far
+  <h2>**Data Structures that I have learned so far**</h2>
 
   1. Array
   2. LinkedList
