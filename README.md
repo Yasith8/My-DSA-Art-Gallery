@@ -35,7 +35,7 @@ So We Can Classfied Data Structures based on their characteristics.
      
   <h2>**Data Structures that I have learned so far**</h2>
 
-  1. [Array](https://github.com/Yasith8/My-DSA-Art-Gallery/tree/main/Data%20Structures/Array)
+  1. Array
   2. LinkedList
   3. Stack
   4. Queue
@@ -45,11 +45,10 @@ So We Can Classfied Data Structures based on their characteristics.
 
 
 
-<h2>Array</h2>
+<h2>[Array](https://github.com/Yasith8/My-DSA-Art-Gallery/tree/main/Data%20Structures/Array)</h2>
 
 - **Print Array**
   <br>
-
   ```
   public class LinearSearch {
 
