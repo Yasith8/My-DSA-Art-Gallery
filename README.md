@@ -49,7 +49,7 @@ So We Can Classfied Data Structures based on their characteristics.
 
 - **Print Array**
   <br>
-  ```
+  ```java
   public class PrintArray {
      public static void main(String args[]){
         int myArray[]={10,20,30,40,50};
