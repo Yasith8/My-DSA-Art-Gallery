@@ -50,36 +50,14 @@ So We Can Classfied Data Structures based on their characteristics.
 - **Print Array**
   <br>
   ```
-  public class LinearSearch {
+  public class PrintArray {
+     public static void main(String args[]){
+        int myArray[]={10,20,30,40,50};
+        int n=myArray.length;
 
-    static int search(int array[],int value){
-        int n=array.length;
-
-        for(int i =0;i<n;i++){
-            if(array[i]==value){
-                return i;
-            }
-        }
-
-        return -1; //if search value is not found,you can return this value;
-
+        for(int i=0; i<n;i++){
+           System.out.print(myArray[i]+",");
+         }
+       }
     }
-    public static void main(String[] args) {
-         
-        int a[]={10,20,30,5,8,90,100,34};
-        int key=90;
-        
-
-        int result=search(a,key);
-
-        if(result==-1){
-            System.out.println("Your value isn't in the array");
-        }
-        else{
-            System.out.println("index related to key is "+result);
-        }
-
-       
-    }
-  }
 ```
