@@ -63,7 +63,7 @@ So We Can Classfied Data Structures based on their characteristics.
   ```
 
 - **Print Selected Array Elements**
-  ```
+  ```java
   //Challenge1: Print index 3 to end in array
   //Challenge2: Print index 2 to 6 in array
 
@@ -87,3 +87,27 @@ So We Can Classfied Data Structures based on their characteristics.
           }
        }
     }
+
+- **Insert a value into fixed Array**
+
+```java
+public class Insert {
+    public static void main(String args[]){
+        int A[]={10,20,30,40,50};
+        int N=A.length;
+        int POS=2;
+        int VAL=90;
+
+        
+        for(int i=N-1;i>POS;i--){
+            A[i]=A[i-1];
+        } 
+
+        A[POS]=VAL;
+
+        for (int i = 0; i < A.length; i++) {
+            System.out.println(A[i]);
+        }
+
+    }
+}
