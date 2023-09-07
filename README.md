@@ -64,6 +64,7 @@ Before we start learn about array get some idea with above image.
        }
     }
   ```
+ -Before we talk about relationship bitween array and Linear Data Structures. 
 
 - **Print Selected Array Elements**
   ```java
