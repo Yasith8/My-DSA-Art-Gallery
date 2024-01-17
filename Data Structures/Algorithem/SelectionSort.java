@@ -3,19 +3,19 @@ package Algorithem;
 public class SelectionSort {
     
     public static void selectionSort(int arr[]){
-
         int n=arr.length;
+
         for(int i=0;i<n-1;i++){
-            int min=i;
+            int lowIdx=i;
 
             for(int j=i+1;j<n;j++){
-                if(arr[j]<arr[min]){
-                    min=j;
+                if(arr[j]<arr[lowIdx]){
+                    lowIdx=j;
                 }
             }
 
-            int temp=arr[min];
-            arr[min]=arr[i];
+            int temp=arr[lowIdx];
+            arr[lowIdx]=arr[i];
             arr[i]=temp;
         }
     }
